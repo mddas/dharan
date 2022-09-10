@@ -31,7 +31,7 @@
 					<!--end: Aside header-->
 					<!--begin: Aside content-->
 					<div class="flex-column-fluid d-flex flex-column justify-content-center">
-						<h3 class="font-size-h1 mb-5 text-white">NTA Document Management System</h3>
+						<h3 class="font-size-h1 mb-5 text-white">Dharan Sub-Metropolitan City</h3>
 						
 					</div>
 					<!--end: Aside content-->

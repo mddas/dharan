@@ -20,7 +20,7 @@
                 @if(config('layout.aside.self.display') == false)
                     <div class="header-logo">
                         <a href="{{ url('/document_folders') }}">
-                            <img alt="Logo" src="{{ asset('assets/media/logos/ntalogo.png') }}" class="max-h-40px"/>
+                            <img alt="Logo" src="{{ asset('assets/media/logos/ntalogo.png') }}" class="max-h-100px"/>
                         </a>
                     </div>
                 @endif

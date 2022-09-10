@@ -78073,7 +78073,7 @@ body {
 
 @media (min-width: 992px) {
   .header-fixed .wrapper {
-    padding-top: 65px;
+    padding-top: 100px;
   }
   .header-fixed.subheader-fixed.subheader-enabled .wrapper {
     padding-top: 119px;
@@ -78123,7 +78123,7 @@ body {
     z-index: 2;
   }
   .header.header-fixed {
-    height: 65px;
+    height: 100px;
     position: fixed;
     top: 0;
     right: 0;
@@ -79302,6 +79302,7 @@ body {
   body:not(.aside-enabled) .header-menu-wrapper {
     display: flex;
     flex-direction: row;
+    align-items: center;
   }
   body:not(.aside-enabled) .header-menu-wrapper .header-logo {
     padding: 0;
